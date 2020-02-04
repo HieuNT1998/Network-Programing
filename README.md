@@ -3,6 +3,7 @@
   + Writted by C
   + Client server model
   + TCP / IP protocol
+  + G
 # Main Function
 1. Login
 2. Create Room
